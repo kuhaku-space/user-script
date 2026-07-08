@@ -1,3 +1,7 @@
+# Workflow rules
+
+- After making any change to files in this repository, always commit it.
+
 # Commit message rules
 
 - Language: English.
